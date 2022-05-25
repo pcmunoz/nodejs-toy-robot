@@ -1,6 +1,6 @@
 {
   "name": "nodejs-toy-robot",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Toy Robot Challenge",
   "main": "dist/index.js",
   "scripts": {
