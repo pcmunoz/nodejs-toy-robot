@@ -6,6 +6,8 @@ Place a robot on a table. Move it in any direction within the table. The robot w
 Point 0,0 is on the SOUTH WEST corner. Out of bounds is negative position and max table dimension(x,y).
 Max table config can be found on _src\config.ts_. If config file is edited, build and run to reflect change.
 
+Install, Build and Run
+
 ## Installation
 
 > npm install
